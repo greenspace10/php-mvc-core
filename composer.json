@@ -1,0 +1,15 @@
+{
+    "name": "grnspc/php-mvc-core",
+    "authors": [
+        {
+            "name": "Nathan Robinson",
+            "email": "greenspace.nr@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "grnspc\\phpmvc\\": "."
+        }
+    }
+}
